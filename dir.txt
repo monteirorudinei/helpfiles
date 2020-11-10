@@ -3,8 +3,8 @@
 
  Pasta de C:\Users\rsmonteiro\Desktop\git\helpfiles
 
-10/11/2020  12:01    <DIR>          .
-10/11/2020  12:01    <DIR>          ..
-10/11/2020  12:01                 0 dir.txt
+10/11/2020  12:43    <DIR>          .
+10/11/2020  12:43    <DIR>          ..
+10/11/2020  12:43                 0 dir.txt
                1 arquivo(s)              0 bytes
-               2 pasta(s)   853.300.477.952 bytes dispon¡veis
+               2 pasta(s)   853.301.895.168 bytes dispon¡veis
