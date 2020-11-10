@@ -1,0 +1,10 @@
+ O volume na unidade C n∆o tem nome.
+ O N£mero de SÇrie do Volume Ç 08D6-F6FE
+
+ Pasta de C:\Users\rsmonteiro\Desktop\git\helpfiles
+
+10/11/2020  12:01    <DIR>          .
+10/11/2020  12:01    <DIR>          ..
+10/11/2020  12:01                 0 dir.txt
+               1 arquivo(s)              0 bytes
+               2 pasta(s)   853.300.477.952 bytes dispon°veis
