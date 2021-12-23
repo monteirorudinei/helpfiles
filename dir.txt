@@ -1,5 +1,5 @@
- O volume na unidade C nÆo tem nome.
- O N£mero de S‚rie do Volume ‚ 08D6-F6FE
+ O volume na unidade C nï¿½o tem nome.
+ O Nï¿½mero de Sï¿½rie do Volume ï¿½ 08D6-F6FE
 
  Pasta de C:\Users\rsmonteiro\Desktop\git\helpfiles
 
@@ -7,4 +7,5 @@
 10/11/2020  12:43    <DIR>          ..
 10/11/2020  12:43                 0 dir.txt
                1 arquivo(s)              0 bytes
-               2 pasta(s)   853.301.895.168 bytes dispon¡veis
+               2 pasta(s)   853.301.895.168 bytes disponï¿½veis
+AdiÃ§Ã£o deste texto
